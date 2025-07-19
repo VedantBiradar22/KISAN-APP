@@ -27,14 +27,7 @@ This solution aims to empower Indian farmers with real-time, easy-to-understand 
 
 ## 🤖 Authors
 
-- Vedant Biradar (Team Lead)
-- [Other team members if applicable]
-
-## 📸 Demo
-
-_Add screenshots or screen recording link here_
-
----
+- Vedant Biradar 
 
 ## 📜 License
 
