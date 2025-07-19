@@ -1,4 +1,4 @@
-# Smart Crop Analysis App 🌾📱
+# KISAN App 🌾📱
 
 This app was developed during a 24-hour Smart Governance Hackathon. It allows farmers to:
 
